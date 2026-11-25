@@ -1,0 +1,28 @@
+{
+  "name": "august-cyber",
+  "displayName": "August Cyber",
+  "version": "1.0.0",
+  "description": "MCP security schema auditor, passive security posture checker, and 48 to 72-hour staging pentest scoper by August Cyber.",
+  "author": {
+    "name": "August Cyber",
+    "email": "hello@august.so"
+  },
+  "publisher": "August Cyber",
+  "homepage": "https://august.so",
+  "repository": "https://github.com/augstai/august-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "Security",
+  "keywords": [
+    "security",
+    "pentest",
+    "mcp-security",
+    "soc2",
+    "appsec",
+    "red-teaming",
+    "ai-security"
+  ],
+  "tags": ["security", "mcp", "soc2", "appsec"],
+  "skills": "./skills",
+  "mcpServers": "./.mcp.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "august-cyber",
+  "displayName": "August Cyber",
+  "version": "1.0.0",
+  "description": "Audit MCP tool schemas for cross-tenant and injection bugs, run passive security header and DNS checks, and scope 48 to 72-hour staging pentests for SOC 2 and AI launches.",
+  "author": {
+    "name": "August Cyber",
+    "email": "hello@august.so",
+    "url": "https://august.so"
+  },
+  "homepage": "https://august.so",
+  "repository": "https://github.com/augstai/august-plugin",
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "mcp-security",
+    "pentest",
+    "soc2",
+    "appsec",
+    "red-teaming"
+  ]
+}
